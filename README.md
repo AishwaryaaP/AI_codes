@@ -9,4 +9,5 @@ The N-queens puzzle is the problem of placing n queens on an n×n chessboard suc
 
 ### TIC TAC TOE (Non-AI Technique)
 Play Tic Tac Toe with the computer. The implementation has been done using Non-AI Technique that is without using heuristics.
+
 ![](./tictactoeimage.png)
